@@ -1,0 +1,7 @@
+D:\ara tatil projeleri\1.proje\1.proje\bin\Debug\1.proje.exe.config
+D:\ara tatil projeleri\1.proje\1.proje\bin\Debug\1.proje.exe
+D:\ara tatil projeleri\1.proje\1.proje\bin\Debug\1.proje.pdb
+D:\ara tatil projeleri\1.proje\1.proje\obj\Debug\1.proje.csproj.AssemblyReference.cache
+D:\ara tatil projeleri\1.proje\1.proje\obj\Debug\1.proje.csproj.CoreCompileInputs.cache
+D:\ara tatil projeleri\1.proje\1.proje\obj\Debug\1.proje.exe
+D:\ara tatil projeleri\1.proje\1.proje\obj\Debug\1.proje.pdb
